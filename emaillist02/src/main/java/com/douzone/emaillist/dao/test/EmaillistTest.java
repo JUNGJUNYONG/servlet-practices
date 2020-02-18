@@ -16,7 +16,6 @@ public class EmaillistTest {
 		vo.setFirstName("마");
 		vo.setLastName("이콜");
 		vo.setEmail("michol@gmail.com");
-		
 		new EmaillistDao().insert(vo);
 	}
 	public static void selectTest() {

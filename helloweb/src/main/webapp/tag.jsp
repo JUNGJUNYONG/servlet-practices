@@ -45,13 +45,13 @@
 	
 	
 	
-	<img src='http://127.0.0.1:8088/helloweb/images/mandalart.png' />
+	<img src='http://127.0.0.1:8080/helloweb/images/mandalart.png' />
 	<br>
 	<img src='/helloweb/images/mandalart.png' style="width:300px"/>
 	<br>
 	<img src='images/mandalart.png' style="width:150px" />
 	<br>
-	<a href="form.jsp">폼으로 가기</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.jsp?n=김지술&a=10">메인으로 가기</a>
+	<a href="form.jsp">폼으로 가기</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.jsp?n=정준용&a=10">메인으로 가기</a>
 	<p>
 		1월 30, 2020 1:32:10 오후 org.apache.catalina.core.StandardContext reload
 		정보: 이름이 [/helloweb]인 컨텍스트를 다시 로드하는 것을 완료했습니다.
